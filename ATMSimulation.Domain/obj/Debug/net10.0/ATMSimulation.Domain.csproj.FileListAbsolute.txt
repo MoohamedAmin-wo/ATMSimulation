@@ -1,0 +1,12 @@
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\bin\Debug\net10.0\ATMSimulation.Domain.deps.json
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\bin\Debug\net10.0\ATMSimulation.Domain.dll
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\bin\Debug\net10.0\ATMSimulation.Domain.pdb
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ATMSimulation.Domain.csproj.AssemblyReference.cache
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ATMSimulation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ATMSimulation.Domain.AssemblyInfoInputs.cache
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ATMSimulation.Domain.AssemblyInfo.cs
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ATMSimulation.Domain.csproj.CoreCompileInputs.cache
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ATMSimulation.Domain.dll
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\refint\ATMSimulation.Domain.dll
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ATMSimulation.Domain.pdb
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Domain\obj\Debug\net10.0\ref\ATMSimulation.Domain.dll
