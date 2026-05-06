@@ -1,0 +1,15 @@
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\bin\Debug\net10.0\ATMSimulation.Application.deps.json
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\bin\Debug\net10.0\ATMSimulation.Application.dll
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\bin\Debug\net10.0\ATMSimulation.Application.pdb
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\bin\Debug\net10.0\ATMSimulation.Domain.dll
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\bin\Debug\net10.0\ATMSimulation.Domain.pdb
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimulation.Application.csproj.AssemblyReference.cache
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimulation.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimulation.Application.AssemblyInfoInputs.cache
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimulation.Application.AssemblyInfo.cs
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimulation.Application.csproj.CoreCompileInputs.cache
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimul.4EDC4719.Up2Date
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimulation.Application.dll
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\refint\ATMSimulation.Application.dll
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ATMSimulation.Application.pdb
+E:\Applications\Back Applications\ATMSimulation\ATMSimulation.Application\obj\Debug\net10.0\ref\ATMSimulation.Application.dll
